@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+2020-06-26
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare - Marvel
 
 ### Description
-Describe what your project is about and what it does
+This project provides access to bikeshare data from Chicago, New York City, and Washington DC.  Data from each city can be viewed individually or all together.  Data can also be broken down by month and/or day of the week.  Based on the users filter inputs, the program will provide certain statistics regarding popular stations, day of the week, hour of the day, as well as user information.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Programming for Data Science with Python Nanodegree Program 
