@@ -42,7 +42,7 @@ def get_filters():
 
     #user inputs day of week
     while True:
-        day = input('Enter a day of the week ' + str(dow).title() +': ')
+        day = input('Enter a day of the week {} : '.format(dow.title()))
         day = day.lower()
         if day in dow:
             print('Thank you, valid day of the week input.')
